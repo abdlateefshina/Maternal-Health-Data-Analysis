@@ -292,7 +292,9 @@ MATERNAL HEALTH ANALYSIS PROJECT/
 │   ├── MATERNAL HEALTH ANALYSIS PROJECT CODEBOOK.pdf
 │   └── MATERNAL HEALTH ANALYSIS PROJECT SOLUTION REPORT.pdf
 │
-└── README.md
+├── README.md
+├── requirements.txt
+└── .gitignore
 ```
 
 The original restricted NDHS dataset is intentionally excluded.
